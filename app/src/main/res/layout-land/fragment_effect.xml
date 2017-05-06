@@ -1,0 +1,64 @@
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.siegester.skyrimalchemy.Effect.EffectFragment">
+
+
+    <TextView
+        android:text="@string/Effect"
+        android:id="@+id/txv_Effect"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginTop="16dp"
+        app:layout_constraintTop_toTopOf="parent"
+        android:textColor="@android:color/black"
+        android:layout_width="480dp"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="normal|bold" />
+
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:text="@string/Ingredient"
+        android:id="@+id/txv_Ingredient"
+        android:layout_marginTop="16dp"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:textStyle="normal|bold"
+        android:layout_width="480dp"
+        android:textColor="@android:color/black" />
+
+    <ListView
+        android:id="@+id/lst_IngredientsEff"
+        android:layout_width="476dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="16dp"
+        app:layout_constraintTop_toBottomOf="@+id/txv_Ingredient"
+        tools:layout_constraintTop_creator="1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="16dp" />
+
+    <ListView
+        android:id="@+id/lst_Effects"
+        android:layout_width="480dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="16dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginTop="16dp"
+        app:layout_constraintTop_toBottomOf="@+id/txv_Effect"
+        tools:layout_constraintTop_creator="1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="16dp" />
+
+
+</android.support.constraint.ConstraintLayout>

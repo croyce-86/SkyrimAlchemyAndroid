@@ -1,0 +1,48 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.siegester.skyrimalchemy.Effect.EffectFragment">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:id="@+id/txv_Effect"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="@string/Effect"
+            android:textSize="20sp"/>
+        <TextView
+            android:id="@+id/txv_Ingredients"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="@string/Ingredient"
+            android:textSize="20sp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="65dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:baselineAligned="false">
+        <ListView
+            android:layout_marginStart="5dp"
+            android:id="@+id/lst_Effects"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="5dp"
+            android:background="@android:color/transparent"/>
+        <ListView
+            android:id="@+id/lst_IngredientsEff"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="5dp"
+            android:background="@android:color/transparent"/>
+    </LinearLayout>
+</FrameLayout>

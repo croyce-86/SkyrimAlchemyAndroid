@@ -1,0 +1,1047 @@
+<AllIngredients>
+    <Ingredient>
+        <ID>0</ID>
+        <Name>Abecean Longfin</Name>
+        <FirstEffect>Weakness to Frost</FirstEffect>
+        <SecondEffect>Fortify Sneak</SecondEffect>
+        <ThirdEffect>Weakness to Poison</ThirdEffect>
+        <FourthEffect>Fortify Restoration</FourthEffect>
+        <Image>http://images.uesp.net/c/c6/SR-ing-Abecean_Longfin.png</Image>
+        <Value>15</Value>
+        <Weight>0.5</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>1</ID>
+        <Name>Ancestor Moth Wing</Name>
+        <FirstEffect>Damage Stamina</FirstEffect>
+        <SecondEffect>Fortify Conjuration</SecondEffect>
+        <ThirdEffect>Damage Magicka Regen</ThirdEffect>
+        <FourthEffect>Fortify Enchanting</FourthEffect>
+        <Image>http://images.uesp.net/5/52/SR_ing_Ancestor_Moth_Wing.png</Image>
+        <Value>2</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>2</ID>
+        <Name>Bear Claws</Name>
+        <FirstEffect>Restore Stamina</FirstEffect>
+        <SecondEffect>Fortify Health</SecondEffect>
+        <ThirdEffect>Fortify One-handed</ThirdEffect>
+        <FourthEffect>Damage Magicka Regen</FourthEffect>
+        <Image>http://images.uesp.net/3/39/SR-ing-Bear_Claws.png</Image>
+        <Value>2</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>3</ID>
+        <Name>Bee</Name>
+        <FirstEffect>Restore Stamina</FirstEffect>
+        <SecondEffect>Ravage Stamina</SecondEffect>
+        <ThirdEffect>Regenerate Stamina</ThirdEffect>
+        <FourthEffect>Weakness to Shock</FourthEffect>
+        <Image>http://images.uesp.net/c/c4/SR-ing-Bee.png</Image>
+        <Value>3</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>4</ID>
+        <Name>Beehive Husk</Name>
+        <FirstEffect>Resist Poison</FirstEffect>
+        <SecondEffect>Fortify Light Armor</SecondEffect>
+        <ThirdEffect>Fortify Sneak</ThirdEffect>
+        <FourthEffect>Fortify Destruction</FourthEffect>
+        <Image>http://images.uesp.net/0/08/SR-ing-Beehive_Husk.png</Image>
+        <Value>5</Value>
+        <Weight>1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>5</ID>
+        <Name>Bleeding Crown</Name>
+        <FirstEffect>Weakness to Fire</FirstEffect>
+        <SecondEffect>Fortify Block</SecondEffect>
+        <ThirdEffect>Weakness to Poison</ThirdEffect>
+        <FourthEffect>Resist Magic</FourthEffect>
+        <Image>http://images.uesp.net/0/0a/SR-ing-Bleeding_Crown.png</Image>
+        <Value>10</Value>
+        <Weight>0.3</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>6</ID>
+        <Name>Blisterwort</Name>
+        <FirstEffect>Damage Stamina</FirstEffect>
+        <SecondEffect>Frenzy</SecondEffect>
+        <ThirdEffect>Restore Health</ThirdEffect>
+        <FourthEffect>Fortify Smithing</FourthEffect>
+        <Image>http://images.uesp.net/0/0f/SR-ing-Blisterwort.png</Image>
+        <Value>12</Value>
+        <Weight>0.2</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>7</ID>
+        <Name>Blue Butterfly Wing</Name>
+        <FirstEffect>Damage Stamina</FirstEffect>
+        <SecondEffect>Fortify Conjuration</SecondEffect>
+        <ThirdEffect>Damage Magicka Regen</ThirdEffect>
+        <FourthEffect>Fortify Enchanting</FourthEffect>
+        <Image>http://images.uesp.net/b/bc/SR-ing-Blue_Butterfly_Wing.png</Image>
+        <Value>2</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>8</ID>
+        <Name>Blue Dartwing</Name>
+        <FirstEffect>Resist Shock</FirstEffect>
+        <SecondEffect>Fortify Pickpocket</SecondEffect>
+        <ThirdEffect>Restore Health</ThirdEffect>
+        <FourthEffect>Fear</FourthEffect>
+        <Image>http://images.uesp.net/f/f3/SR-ing-Blue_Dartwing.png</Image>
+        <Value>1</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>9</ID>
+        <Name>Blue Mountain Flower</Name>
+        <FirstEffect>Restore Health</FirstEffect>
+        <SecondEffect>Fortify Conjuration</SecondEffect>
+        <ThirdEffect>Fortify Health</ThirdEffect>
+        <FourthEffect>Damage Magicka Regen</FourthEffect>
+        <Image>http://images.uesp.net/3/32/SR-ing-Blue_Mountain_Flower.png</Image>
+        <Value>2</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>10</ID>
+        <Name>Bone Meal</Name>
+        <FirstEffect>Damage Stamina</FirstEffect>
+        <SecondEffect>Resist Fire</SecondEffect>
+        <ThirdEffect>Fortify Conjuration</ThirdEffect>
+        <FourthEffect>Ravage Stamina</FourthEffect>
+        <Image>http://images.uesp.net/3/3b/SR-ing-Bone_Meal.png</Image>
+        <Value>5</Value>
+        <Weight>0.5</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>11</ID>
+        <Name>Briar Heart</Name>
+        <FirstEffect>Restore Magicka</FirstEffect>
+        <SecondEffect>Fortify Block</SecondEffect>
+        <ThirdEffect>Paralysis</ThirdEffect>
+        <FourthEffect>Fortify Magicka</FourthEffect>
+        <Image>http://images.uesp.net/b/bb/SR-ing-Briar_Heart.png</Image>
+        <Value>20</Value>
+        <Weight>0.5</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>12</ID>
+        <Name>Butterfly Wing</Name>
+        <FirstEffect>Restore Health</FirstEffect>
+        <SecondEffect>Fortify Barter</SecondEffect>
+        <ThirdEffect>Lingering Damage Stamina</ThirdEffect>
+        <FourthEffect>Damage Magicka</FourthEffect>
+        <Image>http://images.uesp.net/b/ba/SR-ing-Butterfly_Wing.png</Image>
+        <Value>3</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>13</ID>
+        <Name>Canis Root</Name>
+        <FirstEffect>Damage Stamina</FirstEffect>
+        <SecondEffect>Fortify One-handed</SecondEffect>
+        <ThirdEffect>Fortify Marksman</ThirdEffect>
+        <FourthEffect>Paralysis</FourthEffect>
+        <Image>http://images.uesp.net/c/c1/SR_ing_Canis_Root.png</Image>
+        <Value>5</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>14</ID>
+        <Name>Charred Skeever Hide</Name>
+        <FirstEffect>Restore Stamina</FirstEffect>
+        <SecondEffect>Cure Disease</SecondEffect>
+        <ThirdEffect>Resist Poison</ThirdEffect>
+        <FourthEffect>Restore Health</FourthEffect>
+        <Image>http://images.uesp.net/f/f6/SR_ing_Charred_Skeever_Hide.png</Image>
+        <Value>1</Value>
+        <Weight>0.5</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>15</ID>
+        <Name>Chaurus Eggs</Name>
+        <FirstEffect>Weakness to Poison</FirstEffect>
+        <SecondEffect>Fortify Stamina</SecondEffect>
+        <ThirdEffect>Damage Magicka</ThirdEffect>
+        <FourthEffect>Invisibility</FourthEffect>
+        <Image>http://images.uesp.net/7/7d/SR-ing-Chaurus_Eggs.png</Image>
+        <Value>10</Value>
+        <Weight>0.2</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>16</ID>
+        <Name>Chaurus Hunter Antennae</Name>
+        <FirstEffect>Damage Stamina</FirstEffect>
+        <SecondEffect>Fortify Conjuration</SecondEffect>
+        <ThirdEffect>Damage Magicka Regen</ThirdEffect>
+        <FourthEffect>Fortify Enchanting</FourthEffect>
+        <Image>http://images.uesp.net/4/48/SR_ing_Chaurus_Hunter_Antennae.png</Image>
+        <Value>2</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>17</ID>
+        <Name>Chickens Egg</Name>
+        <FirstEffect>Resist Magic</FirstEffect>
+        <SecondEffect>Damage Magicka Regen</SecondEffect>
+        <ThirdEffect>Waterbreathing</ThirdEffect>
+        <FourthEffect>Lingering Damage Stamina</FourthEffect>
+        <Image>http://images.uesp.net/c/c8/SR-ing-Chicken%27s_Egg.png</Image>
+        <Value>2</Value>
+        <Weight>0.5</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>18</ID>
+        <Name>Creep Cluster</Name>
+        <FirstEffect>Restore Magicka</FirstEffect>
+        <SecondEffect>Damage Stamina Regen</SecondEffect>
+        <ThirdEffect>Fortify Carry Weight</ThirdEffect>
+        <FourthEffect>Weakness to Magic</FourthEffect>
+        <Image>http://images.uesp.net/a/a2/SR-ing-Creep_Cluster.png</Image>
+        <Value>1</Value>
+        <Weight>0.2</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>19</ID>
+        <Name>Crimson Nirnroot</Name>
+        <FirstEffect>Damage Health</FirstEffect>
+        <SecondEffect>Damage Stamina</SecondEffect>
+        <ThirdEffect>Invisibility</ThirdEffect>
+        <FourthEffect>Resist Magic</FourthEffect>
+        <Image>http://images.uesp.net/9/9f/SR_ing_Crimson_Nirnroot.png</Image>
+        <Value>10</Value>
+        <Weight>0.2</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>20</ID>
+        <Name>Cyrodilic Spadetail</Name>
+        <FirstEffect>Damage Stamina</FirstEffect>
+        <SecondEffect>Fortify Restoration</SecondEffect>
+        <ThirdEffect>Fear</ThirdEffect>
+        <FourthEffect>Ravage Health</FourthEffect>
+        <Image>http://images.uesp.net/1/19/SR_ing_Cyrodilic_Spadetail.png</Image>
+        <Value>15</Value>
+        <Weight>0.25</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>21</ID>
+        <Name>Daedra Heart</Name>
+        <FirstEffect>Restore Health</FirstEffect>
+        <SecondEffect>Damage Stamina Regen</SecondEffect>
+        <ThirdEffect>Damage Magicka</ThirdEffect>
+        <FourthEffect>Fear</FourthEffect>
+        <Image>http://images.uesp.net/5/52/SR-ing-Daedra_Heart.png</Image>
+        <Value>250</Value>
+        <Weight>0.5</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>22</ID>
+        <Name>Deathbell</Name>
+        <FirstEffect>Damage Health</FirstEffect>
+        <SecondEffect>Ravage Stamina</SecondEffect>
+        <ThirdEffect>Slow</ThirdEffect>
+        <FourthEffect>Weakness to Poison</FourthEffect>
+        <Image>http://images.uesp.net/d/d9/SR_ing_Deathbell.png</Image>
+        <Value>4</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>23</ID>
+        <Name>Dragons Tongue</Name>
+        <FirstEffect>Resist Fire</FirstEffect>
+        <SecondEffect>Fortify Barter</SecondEffect>
+        <ThirdEffect>Fortify Illusion</ThirdEffect>
+        <FourthEffect>Fortify Two-Handed</FourthEffect>
+        <Image>http://images.uesp.net/c/c1/SR_ing_Dragons_Tongue.png</Image>
+        <Value>5</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>24</ID>
+        <Name>Dwarven Oil</Name>
+        <FirstEffect>Weakness to Magic</FirstEffect>
+        <SecondEffect>Fortify Illusion</SecondEffect>
+        <ThirdEffect>Regenerate Magicka</ThirdEffect>
+        <FourthEffect>Restore Magicka</FourthEffect>
+        <Image>http://images.uesp.net/2/24/SR_ing_Dwarven_Oil.png</Image>
+        <Value>15</Value>
+        <Weight>0.25</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>25</ID>
+        <Name>Ectoplasm</Name>
+        <FirstEffect>Restore Magicka</FirstEffect>
+        <SecondEffect>Fortify Destruction</SecondEffect>
+        <ThirdEffect>Fortify Magicka</ThirdEffect>
+        <FourthEffect>Damage Health</FourthEffect>
+        <Image>http://images.uesp.net/d/db/SR_ing_Ectoplasm.png</Image>
+        <Value>25</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>26</ID>
+        <Name>Elves Ear</Name>
+        <FirstEffect>Restore Magicka</FirstEffect>
+        <SecondEffect>Fortify Marksman</SecondEffect>
+        <ThirdEffect>Weakness to Frost</ThirdEffect>
+        <FourthEffect>Resist Fire</FourthEffect>
+        <Image>http://images.uesp.net/c/cd/SR_ing_Elves_Ear.png</Image>
+        <Value>10</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>27</ID>
+        <Name>Eye of Sabre Cat</Name>
+        <FirstEffect>Restore Stamina</FirstEffect>
+        <SecondEffect>Ravage Health</SecondEffect>
+        <ThirdEffect>Damage Magicka</ThirdEffect>
+        <FourthEffect>Restore Health</FourthEffect>
+        <Image>http://images.uesp.net/3/30/SR-ing-Eye_of_Sabre_Cat.png</Image>
+        <Value>2</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>28</ID>
+        <Name>Falmer Ear</Name>
+        <FirstEffect>Damage Health</FirstEffect>
+        <SecondEffect>Frenzy</SecondEffect>
+        <ThirdEffect>Resist Poison</ThirdEffect>
+        <FourthEffect>Fortify Lockpicking</FourthEffect>
+        <Image>http://images.uesp.net/a/ac/SR-ing-Falmer_Ear.png</Image>
+        <Value>10</Value>
+        <Weight>0.2</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>29</ID>
+        <Name>Fire Salts</Name>
+        <FirstEffect>Weakness to Frost</FirstEffect>
+        <SecondEffect>Resist Fire</SecondEffect>
+        <ThirdEffect>Restore Magicka</ThirdEffect>
+        <FourthEffect>Regenerate Magicka</FourthEffect>
+        <Image>http://images.uesp.net/d/d7/SR_ing_Fire_Salts.png</Image>
+        <Value>50</Value>
+        <Weight>0.25</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>30</ID>
+        <Name>Fly Amanita</Name>
+        <FirstEffect>Resist Fire</FirstEffect>
+        <SecondEffect>Fortify Two-handed</SecondEffect>
+        <ThirdEffect>Frenzy</ThirdEffect>
+        <FourthEffect>Regenerate Stamina</FourthEffect>
+        <Image>http://images.uesp.net/1/14/SR_ing_Fly_Amanita.png</Image>
+        <Value>2</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>31</ID>
+        <Name>Frost Mirriam</Name>
+        <FirstEffect>Resist Frost</FirstEffect>
+        <SecondEffect>Fortify Sneak</SecondEffect>
+        <ThirdEffect>Ravage Magicka</ThirdEffect>
+        <FourthEffect>Damage Stamina Regen</FourthEffect>
+        <Image>http://images.uesp.net/b/b3/SR_ing_Frost_Mirriam.png</Image>
+        <Value>1</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>32</ID>
+        <Name>Frost Salts</Name>
+        <FirstEffect>Weakness to Fire</FirstEffect>
+        <SecondEffect>Resist Frost</SecondEffect>
+        <ThirdEffect>Restore Magicka</ThirdEffect>
+        <FourthEffect>Fortify Conjuration</FourthEffect>
+        <Image>http://images.uesp.net/2/29/SR_ing_Frost_Salts.png</Image>
+        <Value>100</Value>
+        <Weight>0.25</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>33</ID>
+        <Name>Garlic</Name>
+        <FirstEffect>Resist Poison</FirstEffect>
+        <SecondEffect>Fortify Stamina</SecondEffect>
+        <ThirdEffect>Regenerate Magicka</ThirdEffect>
+        <FourthEffect>Regenerate Health</FourthEffect>
+        <Image>http://images.uesp.net/b/b1/SR_ing_Garlic.png</Image>
+        <Value>1</Value>
+        <Weight>0.25</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>34</ID>
+        <Name>Giant Lichen</Name>
+        <FirstEffect>Weakness to Shock</FirstEffect>
+        <SecondEffect>Ravage Health</SecondEffect>
+        <ThirdEffect>Weakness to Poison</ThirdEffect>
+        <FourthEffect>Restore Magicka</FourthEffect>
+        <Image>http://images.uesp.net/a/ad/SR_ing_Giant_Lichen.png</Image>
+        <Value>5</Value>
+        <Weight>0.25</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>35</ID>
+        <Name>Giants Toe</Name>
+        <FirstEffect>Damage Stamina</FirstEffect>
+        <SecondEffect>Fortify Health</SecondEffect>
+        <ThirdEffect>Fortify Carry Weight</ThirdEffect>
+        <FourthEffect>Damage Stamina Regen</FourthEffect>
+        <Image>http://images.uesp.net/6/6f/SR_ing_Giants_Toe.png</Image>
+        <Value>20</Value>
+        <Weight>1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>36</ID>
+        <Name>Glow Dust</Name>
+        <FirstEffect>Damage Magicka</FirstEffect>
+        <SecondEffect>Damage Magicka Regen</SecondEffect>
+        <ThirdEffect>Fortify Destruction</ThirdEffect>
+        <FourthEffect>Resist Shock</FourthEffect>
+        <Image>http://images.uesp.net/1/13/SR_ing_Glow_Dust.png</Image>
+        <Value>20</Value>
+        <Weight>0.5</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>37</ID>
+        <Name>Glowing Mushroom</Name>
+        <FirstEffect>Resist Shock</FirstEffect>
+        <SecondEffect>Fortify Destruction</SecondEffect>
+        <ThirdEffect>Fortify Smithing</ThirdEffect>
+        <FourthEffect>Fortify Health</FourthEffect>
+        <Image>http://images.uesp.net/0/05/SR_ing_Glowing_Mushroom.png</Image>
+        <Value>5</Value>
+        <Weight>0.2</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>38</ID>
+        <Name>Grass Pod</Name>
+        <FirstEffect>Resist Poison</FirstEffect>
+        <SecondEffect>Ravage Magicka</SecondEffect>
+        <ThirdEffect>Fortify Alteration</ThirdEffect>
+        <FourthEffect>Restore Magicka</FourthEffect>
+        <Image>http://images.uesp.net/f/f2/SR_ing_Grass_Pod.png</Image>
+        <Value>1</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>39</ID>
+        <Name>Hagraven Claw</Name>
+        <FirstEffect>Resist Magic</FirstEffect>
+        <SecondEffect>Lingering Damage Magicka</SecondEffect>
+        <ThirdEffect>Fortify Enchanting</ThirdEffect>
+        <FourthEffect>Fortify Barter</FourthEffect>
+        <Image>http://images.uesp.net/1/1d/SR-ing-Hagraven_Claw.png</Image>
+        <Value>20</Value>
+        <Weight>0.25</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>40</ID>
+        <Name>Hagraven Feathers</Name>
+        <FirstEffect>Damage Magicka</FirstEffect>
+        <SecondEffect>Fortify Conjuration</SecondEffect>
+        <ThirdEffect>Frenzy</ThirdEffect>
+        <FourthEffect>Weakness to Shock</FourthEffect>
+        <Image>http://images.uesp.net/d/db/SR_ing_Hagraven_Feathers.png</Image>
+        <Value>20</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>41</ID>
+        <Name>Hanging Moss</Name>
+        <FirstEffect>Damage Magicka</FirstEffect>
+        <SecondEffect>Fortify Health</SecondEffect>
+        <ThirdEffect>Damage Magicka Regen</ThirdEffect>
+        <FourthEffect>Fortify One-handed</FourthEffect>
+        <Image>http://images.uesp.net/b/b4/SR_ing_Hanging_Moss.png</Image>
+        <Value>1</Value>
+        <Weight>0.25</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>42</ID>
+        <Name>Hawk Beak</Name>
+        <FirstEffect>Restore Stamina</FirstEffect>
+        <SecondEffect>Resist Frost</SecondEffect>
+        <ThirdEffect>Fortify Carry Weight</ThirdEffect>
+        <FourthEffect>Resist Shock</FourthEffect>
+        <Image>http://images.uesp.net/2/2b/SR-ing-Hawk_Beak.png</Image>
+        <Value>15</Value>
+        <Weight>0.25</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>43</ID>
+        <Name>Hawk Feathers</Name>
+        <FirstEffect>Cure Disease</FirstEffect>
+        <SecondEffect>Fortify Light Armor</SecondEffect>
+        <ThirdEffect>Fortify One-handed</ThirdEffect>
+        <FourthEffect>Fortify Sneak</FourthEffect>
+        <Image>http://images.uesp.net/2/2c/SR_ing_Hawk_Feathers.png</Image>
+        <Value>15</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>44</ID>
+        <Name>Histcarp</Name>
+        <FirstEffect>Restore Stamina</FirstEffect>
+        <SecondEffect>Fortify Magicka</SecondEffect>
+        <ThirdEffect>Damage Stamina Regen</ThirdEffect>
+        <FourthEffect>Waterbreathing</FourthEffect>
+        <Image>http://images.uesp.net/9/98/SR-ing-Histcarp.png</Image>
+        <Value>6</Value>
+        <Weight>0.25</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>45</ID>
+        <Name>Honeycomb</Name>
+        <FirstEffect>Restore Stamina</FirstEffect>
+        <SecondEffect>Fortify Block</SecondEffect>
+        <ThirdEffect>Fortify Light Armor</ThirdEffect>
+        <FourthEffect>Ravage Stamina</FourthEffect>
+        <Image>http://images.uesp.net/c/c0/SR-ing-Honeycomb.png</Image>
+        <Value>5</Value>
+        <Weight>1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>46</ID>
+        <Name>Human Flesh</Name>
+        <FirstEffect>Damage Health</FirstEffect>
+        <SecondEffect>Paralysis</SecondEffect>
+        <ThirdEffect>Restore Magicka</ThirdEffect>
+        <FourthEffect>Fortify Sneak</FourthEffect>
+        <Image>http://images.uesp.net/b/be/SR-ing-Human_Flesh.png</Image>
+        <Value>1</Value>
+        <Weight>0.25</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>47</ID>
+        <Name>Human Heart</Name>
+        <FirstEffect>Damage Health</FirstEffect>
+        <SecondEffect>Damage Magicka</SecondEffect>
+        <ThirdEffect>Damage Magicka Regen</ThirdEffect>
+        <FourthEffect>Frenzy</FourthEffect>
+        <Image>http://images.uesp.net/2/2b/SR-ing-Human_Heart.png</Image>
+        <Value>0</Value>
+        <Weight>1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>48</ID>
+        <Name>Ice Wraith Teeth</Name>
+        <FirstEffect>Weakness to Frost</FirstEffect>
+        <SecondEffect>Fortify Heavy Armor</SecondEffect>
+        <ThirdEffect>Invisibility</ThirdEffect>
+        <FourthEffect>Weakness to Fire</FourthEffect>
+        <Image>http://images.uesp.net/8/8a/SR-ing-Ice_Wraith_Teeth.png</Image>
+        <Value>30</Value>
+        <Weight>0.25</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>49</ID>
+        <Name>Imp Stool</Name>
+        <FirstEffect>Damage Health</FirstEffect>
+        <SecondEffect>Lingering Damage Health</SecondEffect>
+        <ThirdEffect>Paralysis</ThirdEffect>
+        <FourthEffect>Restore Health</FourthEffect>
+        <Image>http://images.uesp.net/8/8f/SR_ing_Imp_Stool.png</Image>
+        <Value>0</Value>
+        <Weight>0.3</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>50</ID>
+        <Name>Jazbay Grapes</Name>
+        <FirstEffect>Weakness to Magic</FirstEffect>
+        <SecondEffect>Fortify Magicka</SecondEffect>
+        <ThirdEffect>Regenerate Magicka</ThirdEffect>
+        <FourthEffect>Ravage Health</FourthEffect>
+        <Image>http://images.uesp.net/2/25/SR_ing_Jazbay_Grapes.png</Image>
+        <Value>1</Value>
+        <Weight>0.2</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>51</ID>
+        <Name>Juniper Berries</Name>
+        <FirstEffect>Weakness to Fire</FirstEffect>
+        <SecondEffect>Fortify Marksman</SecondEffect>
+        <ThirdEffect>Regenerate Health</ThirdEffect>
+        <FourthEffect>Damage Stamina Regen</FourthEffect>
+        <Image>http://images.uesp.net/5/52/SR_ing_Juniper_Berries.png</Image>
+        <Value>1</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>52</ID>
+        <Name>Large Antlers</Name>
+        <FirstEffect>Restore Stamina</FirstEffect>
+        <SecondEffect>Fortify Stamina</SecondEffect>
+        <ThirdEffect>Slow</ThirdEffect>
+        <FourthEffect>Damage Stamina Regen</FourthEffect>
+        <Image>http://images.uesp.net/5/52/SR_ing_Large_Antlers.png</Image>
+        <Value>2</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>53</ID>
+        <Name>Lavender</Name>
+        <FirstEffect>Resist Magic</FirstEffect>
+        <SecondEffect>Fortify Stamina</SecondEffect>
+        <ThirdEffect>Ravage Magicka</ThirdEffect>
+        <FourthEffect>Fortify Conjuration</FourthEffect>
+        <Image>http://images.uesp.net/6/6d/SR_ing_Lavender.png</Image>
+        <Value>1</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>54</ID>
+        <Name>Luna Moth Wing</Name>
+        <FirstEffect>Damage Magicka</FirstEffect>
+        <SecondEffect>Fortify Light Armor</SecondEffect>
+        <ThirdEffect>Regenerate Health</ThirdEffect>
+        <FourthEffect>Invisibility</FourthEffect>
+        <Image>http://images.uesp.net/f/f9/SR_ing_Luna_Moth_Wing.png</Image>
+        <Value>5</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>55</ID>
+        <Name>Moon Sugar</Name>
+        <FirstEffect>Weakness to Fire</FirstEffect>
+        <SecondEffect>Resist Frost</SecondEffect>
+        <ThirdEffect>Restore Magicka</ThirdEffect>
+        <FourthEffect>Regenerate Magicka</FourthEffect>
+        <Image>http://images.uesp.net/2/24/SR_ing_Moon_Sugar.png</Image>
+        <Value>50</Value>
+        <Weight>0.25</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>56</ID>
+        <Name>Mora Tapinella</Name>
+        <FirstEffect>Restore Magicka</FirstEffect>
+        <SecondEffect>Lingering Damage Health</SecondEffect>
+        <ThirdEffect>Regenerate Stamina</ThirdEffect>
+        <FourthEffect>Fortify Illusion</FourthEffect>
+        <Image>http://images.uesp.net/e/ee/SR_ing_Mora_Tapinella.png</Image>
+        <Value>4</Value>
+        <Weight>0.25</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>57</ID>
+        <Name>Mudcrab Chitin</Name>
+        <FirstEffect>Restore Stamina</FirstEffect>
+        <SecondEffect>Cure Disease</SecondEffect>
+        <ThirdEffect>Resist Poison</ThirdEffect>
+        <FourthEffect>Resist Fire</FourthEffect>
+        <Image>http://images.uesp.net/a/ad/SR_ing_Mudcrab_Chitin.png</Image>
+        <Value>2</Value>
+        <Weight>0.25</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>58</ID>
+        <Name>Namiras Rot</Name>
+        <FirstEffect>Damage Magika</FirstEffect>
+        <SecondEffect>Fortify Lockpicking</SecondEffect>
+        <ThirdEffect>Fear</ThirdEffect>
+        <FourthEffect>Regenerate Health</FourthEffect>
+        <Image>http://images.uesp.net/c/ca/SR_ing_Namira%27s_Rot.png</Image>
+        <Value>0</Value>
+        <Weight>0.25</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>59</ID>
+        <Name>Nightshade</Name>
+        <FirstEffect>Damage Health</FirstEffect>
+        <SecondEffect>Damage Magicka Regen</SecondEffect>
+        <ThirdEffect>Lingering Damage Stamina</ThirdEffect>
+        <FourthEffect>Fortify Destruction</FourthEffect>
+        <Image>http://images.uesp.net/b/b6/SR_ing_Nightshade.png</Image>
+        <Value>8</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>60</ID>
+        <Name>Nirnroot</Name>
+        <FirstEffect>Damage Health</FirstEffect>
+        <SecondEffect>Damage Stamina</SecondEffect>
+        <ThirdEffect>Invisibility</ThirdEffect>
+        <FourthEffect>Resist Magic</FourthEffect>
+        <Image>http://images.uesp.net/8/8f/SR_ing_Nirnroot.png</Image>
+        <Value>10</Value>
+        <Weight>0.2</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>61</ID>
+        <Name>Nordic Barnacle</Name>
+        <FirstEffect>Damage Magicka</FirstEffect>
+        <SecondEffect>Waterbreathing</SecondEffect>
+        <ThirdEffect>Regenerate Health</ThirdEffect>
+        <FourthEffect>Fortify Pickpocket</FourthEffect>
+        <Image>http://images.uesp.net/c/c1/SR_ing_Nordic_Barnacle.png</Image>
+        <Value>5</Value>
+        <Weight>0.2</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>62</ID>
+        <Name>Orange Dartwing</Name>
+        <FirstEffect>Restore Stamina</FirstEffect>
+        <SecondEffect>Ravage Magicka</SecondEffect>
+        <ThirdEffect>Fortify Pickpocket</ThirdEffect>
+        <FourthEffect>Lingering Damage Health</FourthEffect>
+        <Image>http://images.uesp.net/0/0c/SR_ing_Orange_Dartwing.png</Image>
+        <Value>1</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>63</ID>
+        <Name>Pearl</Name>
+        <FirstEffect>Restore Stamina</FirstEffect>
+        <SecondEffect>Fortify Block</SecondEffect>
+        <ThirdEffect>Restore Magicka</ThirdEffect>
+        <FourthEffect>Resist Shock</FourthEffect>
+        <Image>http://images.uesp.net/4/49/SR_ing_Pearl.png</Image>
+        <Value>2</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>64</ID>
+        <Name>Pine Thrush Egg</Name>
+        <FirstEffect>Restore Stamina</FirstEffect>
+        <SecondEffect>Fortify Lockpicking</SecondEffect>
+        <ThirdEffect>Weakness to Poison</ThirdEffect>
+        <FourthEffect>Resist Shock</FourthEffect>
+        <Image>http://images.uesp.net/5/5c/SR_ing_Pine_Thrush_Egg.png</Image>
+        <Value>2</Value>
+        <Weight>0.5</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>65</ID>
+        <Name>Poison Bloom</Name>
+        <FirstEffect>Damage Health</FirstEffect>
+        <SecondEffect>Slow</SecondEffect>
+        <ThirdEffect>Fortify Carry Weight</ThirdEffect>
+        <FourthEffect>Fear</FourthEffect>
+        <Image>http://images.uesp.net/7/70/SR_ing_Poison_Bloom.png</Image>
+        <Value>5</Value>
+        <Weight>0.25</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>66</ID>
+        <Name>Powdered Mammoth Tusk</Name>
+        <FirstEffect>Restore Stamina</FirstEffect>
+        <SecondEffect>Fortify Sneak</SecondEffect>
+        <ThirdEffect>Weakness to Fire</ThirdEffect>
+        <FourthEffect>Fear</FourthEffect>
+        <Image>http://images.uesp.net/d/d1/SR_ing_Powdered_Mammoth_Tusk.png</Image>
+        <Value>2</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>67</ID>
+        <Name>Purple Mountain Flower</Name>
+        <FirstEffect>Restore Stamina</FirstEffect>
+        <SecondEffect>Fortify Sneak</SecondEffect>
+        <ThirdEffect>Lingering Damage Magicka</ThirdEffect>
+        <FourthEffect>Resist Frost</FourthEffect>
+        <Image>http://images.uesp.net/7/71/SR_ing_Purple_Mountain_Flower.png</Image>
+        <Value>2</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>68</ID>
+        <Name>Red Mountain Flower</Name>
+        <FirstEffect>Restore Magicka</FirstEffect>
+        <SecondEffect>Ravage Magicka</SecondEffect>
+        <ThirdEffect>Fortify Magicka</ThirdEffect>
+        <FourthEffect>Damage Health</FourthEffect>
+        <Image>http://images.uesp.net/1/1f/SR_ing_Red_Mountain_Flower.png</Image>
+        <Value>2</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>69</ID>
+        <Name>River Betty</Name>
+        <FirstEffect>Damage Health</FirstEffect>
+        <SecondEffect>Fortify Alteration</SecondEffect>
+        <ThirdEffect>Slow</ThirdEffect>
+        <FourthEffect>Fortify Carry Weight</FourthEffect>
+        <Image>http://images.uesp.net/3/35/SR_ing_River_Betty.png</Image>
+        <Value>15</Value>
+        <Weight>0.25</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>70</ID>
+        <Name>Rock Warbler Egg</Name>
+        <FirstEffect>Restore Health</FirstEffect>
+        <SecondEffect>Fortify One-handed</SecondEffect>
+        <ThirdEffect>Damage Stamina</ThirdEffect>
+        <FourthEffect>Weakness to Magic</FourthEffect>
+        <Image>http://images.uesp.net/5/51/SR_ing_Sabre_Cat_Tooth.png</Image>
+        <Value>2</Value>
+        <Weight>0.5</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>71</ID>
+        <Name>Sabre Cat Tooth</Name>
+        <FirstEffect>Restore Stamina</FirstEffect>
+        <SecondEffect>Fortify Heavy Armor</SecondEffect>
+        <ThirdEffect>Fortify Smithing</ThirdEffect>
+        <FourthEffect>Weakness to Poison</FourthEffect>
+        <Image>http://images.uesp.net/5/51/SR_ing_Sabre_Cat_Tooth.png</Image>
+        <Value>2</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>72</ID>
+        <Name>Salt Pile</Name>
+        <FirstEffect>Weakness to Magic</FirstEffect>
+        <SecondEffect>Fortify Restoration</SecondEffect>
+        <ThirdEffect>Slow</ThirdEffect>
+        <FourthEffect>Regenerate Magicka</FourthEffect>
+        <Image>http://images.uesp.net/a/a9/SR_ing_Salt_Pile.png</Image>
+        <Value>2</Value>
+        <Weight>0.2</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>73</ID>
+        <Name>Scaly Pholiota</Name>
+        <FirstEffect>Weakness to Magic</FirstEffect>
+        <SecondEffect>Fortify Illusion</SecondEffect>
+        <ThirdEffect>Regenerate Stamina</ThirdEffect>
+        <FourthEffect>Fortify Carry Weight</FourthEffect>
+        <Image>http://images.uesp.net/5/5b/SR_ing_Scaly_Pholiota.png</Image>
+        <Value>4</Value>
+        <Weight>0.25</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>74</ID>
+        <Name>Silverside Perch</Name>
+        <FirstEffect>Restore Stamina</FirstEffect>
+        <SecondEffect>Damage Stamina Regen</SecondEffect>
+        <ThirdEffect>Ravage Health</ThirdEffect>
+        <FourthEffect>Resist Frost</FourthEffect>
+        <Image>http://images.uesp.net/f/f8/SR_ing_Silverside_Perch.png</Image>
+        <Value>15</Value>
+        <Weight>0.25</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>75</ID>
+        <Name>Skeever Tail</Name>
+        <FirstEffect>Damage Stamina Regen</FirstEffect>
+        <SecondEffect>Ravage Health</SecondEffect>
+        <ThirdEffect>Damage Health</ThirdEffect>
+        <FourthEffect>Fortify Light Armor</FourthEffect>
+        <Image>http://images.uesp.net/7/79/SR_ing_Skeever_Tail.png</Image>
+        <Value>3</Value>
+        <Weight>0.2</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>76</ID>
+        <Name>Slaughterfish Egg</Name>
+        <FirstEffect>Resist Poison</FirstEffect>
+        <SecondEffect>Fortify Pickpocket</SecondEffect>
+        <ThirdEffect>Lingering Damage Health</ThirdEffect>
+        <FourthEffect>Fortify Stamina</FourthEffect>
+        <Image>http://images.uesp.net/a/a0/SR_ing_Slaughterfish_Egg.png</Image>
+        <Value>3</Value>
+        <Weight>0.2</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>77</ID>
+        <Name>Slaughterfish Scales</Name>
+        <FirstEffect>Resist Frost</FirstEffect>
+        <SecondEffect>Lingering Damage Health</SecondEffect>
+        <ThirdEffect>Fortify Heavy Armor</ThirdEffect>
+        <FourthEffect>Fortify Block</FourthEffect>
+        <Image>http://images.uesp.net/f/f8/SR_ing_Slaughterfish_Scales.png</Image>
+        <Value>3</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>78</ID>
+        <Name>Small Antlers</Name>
+        <FirstEffect>Weakness to Poison</FirstEffect>
+        <SecondEffect>Fortify Restoration</SecondEffect>
+        <ThirdEffect>Lingering Damage Stamina</ThirdEffect>
+        <FourthEffect>Damage Health</FourthEffect>
+        <Image>http://images.uesp.net/4/49/SR_ing_Small_Antlers.png</Image>
+        <Value>2</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>79</ID>
+        <Name>Small Pearl</Name>
+        <FirstEffect>Restore Stamina</FirstEffect>
+        <SecondEffect>Fortify One-handed</SecondEffect>
+        <ThirdEffect>Fortify Restoration</ThirdEffect>
+        <FourthEffect>Resist Frost</FourthEffect>
+        <Image>http://images.uesp.net/a/aa/SR_ing_Small_Pearl.png</Image>
+        <Value>2</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>80</ID>
+        <Name>Snowberries</Name>
+        <FirstEffect>Resist Fire</FirstEffect>
+        <SecondEffect>Fortify Enchanting</SecondEffect>
+        <ThirdEffect>Resist Frost</ThirdEffect>
+        <FourthEffect>Resist Shock</FourthEffect>
+        <Image>http://images.uesp.net/b/b7/SR_ing_Snowberries.png</Image>
+        <Value>4</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>81</ID>
+        <Name>Spider Egg</Name>
+        <FirstEffect>Damage Stamina</FirstEffect>
+        <SecondEffect>Damage Magicka Regen</SecondEffect>
+        <ThirdEffect>Fortify Lockpicking</ThirdEffect>
+        <FourthEffect>Fortify Marksman</FourthEffect>
+        <Image>http://images.uesp.net/c/c4/SR_ing_Spider_Egg.png</Image>
+        <Value>5</Value>
+        <Weight>0.2</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>82</ID>
+        <Name>Spriggan Sap</Name>
+        <FirstEffect>Damage Magicka Regen</FirstEffect>
+        <SecondEffect>Fortify Enchanting</SecondEffect>
+        <ThirdEffect>Fortify Smithing</ThirdEffect>
+        <FourthEffect>Fortify Alteration</FourthEffect>
+        <Image>http://images.uesp.net/b/b6/SR_ing_Spriggan_Sap.png</Image>
+        <Value>15</Value>
+        <Weight>0.2</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>83</ID>
+        <Name>Swamp Fungal Pod</Name>
+        <FirstEffect>Resist Shock</FirstEffect>
+        <SecondEffect>Lingering Damage Magicka</SecondEffect>
+        <ThirdEffect>Paralysis</ThirdEffect>
+        <FourthEffect>Restore Health</FourthEffect>
+        <Image>http://images.uesp.net/a/a8/SR_ing_Swamp_Fungal_Pod.png</Image>
+        <Value>5</Value>
+        <Weight>0.25</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>84</ID>
+        <Name>Taproot</Name>
+        <FirstEffect>Weakness to Magic</FirstEffect>
+        <SecondEffect>Fortify Illusion</SecondEffect>
+        <ThirdEffect>Regenerate Magicka</ThirdEffect>
+        <FourthEffect>Restore Magicka</FourthEffect>
+        <Image>http://images.uesp.net/0/05/SR_ing_Taproot.png</Image>
+        <Value>15</Value>
+        <Weight>0.5</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>85</ID>
+        <Name>Thistle Branch</Name>
+        <FirstEffect>Resist Frost</FirstEffect>
+        <SecondEffect>Ravage Stamina</SecondEffect>
+        <ThirdEffect>Resist Poison</ThirdEffect>
+        <FourthEffect>Fortify Heavy Armor</FourthEffect>
+        <Image>http://images.uesp.net/f/f0/SR_ing_Thistle_Branch.png</Image>
+        <Value>1</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>86</ID>
+        <Name>Torchbug Thorax</Name>
+        <FirstEffect>Restore Stamina</FirstEffect>
+        <SecondEffect>Lingering Damage Magicka</SecondEffect>
+        <ThirdEffect>Weakness to Magicka</ThirdEffect>
+        <FourthEffect>Fortify Stamina</FourthEffect>
+        <Image>http://images.uesp.net/4/4b/SR_ing_Torchbug_Thorax.png</Image>
+        <Value>1</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>87</ID>
+        <Name>Troll Fat</Name>
+        <FirstEffect>Resist Poison</FirstEffect>
+        <SecondEffect>Fortify Two-handed</SecondEffect>
+        <ThirdEffect>Frenzy</ThirdEffect>
+        <FourthEffect>Damage Health</FourthEffect>
+        <Image>http://images.uesp.net/e/e4/SR_ing_Troll_Fat.png</Image>
+        <Value>15</Value>
+        <Weight>1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>88</ID>
+        <Name>Tundra Cotton</Name>
+        <FirstEffect>Resist Magic</FirstEffect>
+        <SecondEffect>Fortify Magicka</SecondEffect>
+        <ThirdEffect>Fortify Block</ThirdEffect>
+        <FourthEffect>Fortify Barter</FourthEffect>
+        <Image>http://images.uesp.net/5/52/SR_ing_Tundra_Cotton.png</Image>
+        <Value>1</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>89</ID>
+        <Name>Vampire Dust</Name>
+        <FirstEffect>Invisibility</FirstEffect>
+        <SecondEffect>Restore Magicka</SecondEffect>
+        <ThirdEffect>Regenerate Health</ThirdEffect>
+        <FourthEffect>Cure Disease</FourthEffect>
+        <Image>http://images.uesp.net/7/72/SR_ing_Vampire_Dust.png</Image>
+        <Value>25</Value>
+        <Weight>0.2</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>90</ID>
+        <Name>Void Salts</Name>
+        <FirstEffect>Weakness to Shock</FirstEffect>
+        <SecondEffect>Resist Magic</SecondEffect>
+        <ThirdEffect>Damage Health</ThirdEffect>
+        <FourthEffect>Fortify Magicka</FourthEffect>
+        <Image>http://images.uesp.net/7/76/SR_ing_Void_Salts.png</Image>
+        <Value>125</Value>
+        <Weight>0.2</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>91</ID>
+        <Name>Wheat</Name>
+        <FirstEffect>Restore Health</FirstEffect>
+        <SecondEffect>Fortify Health</SecondEffect>
+        <ThirdEffect>Damage Stamina Regen</ThirdEffect>
+        <FourthEffect>Lingering Damage Magicka</FourthEffect>
+        <Image>http://images.uesp.net/a/a5/SR_ing_Wheat.png</Image>
+        <Value>5</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>92</ID>
+        <Name>White Cap</Name>
+        <FirstEffect>Weakness to Frost</FirstEffect>
+        <SecondEffect>Fortify Heavy Armor</SecondEffect>
+        <ThirdEffect>Restore Magicka</ThirdEffect>
+        <FourthEffect>Ravage Magicka</FourthEffect>
+        <Image>http://images.uesp.net/0/01/SR_ing_White_Cap.png</Image>
+        <Value>0</Value>
+        <Weight>0.3</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>93</ID>
+        <Name>Wisp Wrappings</Name>
+        <FirstEffect>Restore Stamina</FirstEffect>
+        <SecondEffect>Fortify Destruction</SecondEffect>
+        <ThirdEffect>Fortify Carry Weight</ThirdEffect>
+        <FourthEffect>Resist Magic</FourthEffect>
+        <Image>http://images.uesp.net/1/1e/SR_ing_Wisp_Wrappings.png</Image>
+        <Value>2</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+    <Ingredient>
+        <ID>94</ID>
+        <Name>Yellow Mountain Flower</Name>
+        <FirstEffect>Resist Poison</FirstEffect>
+        <SecondEffect>Fortify Restoration</SecondEffect>
+        <ThirdEffect>Fortify Health</ThirdEffect>
+        <FourthEffect>Damage Stamina Regen</FourthEffect>
+        <Image>http://images.uesp.net/6/65/SR_ing_Yellow_Mountain_Flower.png</Image>
+        <Value>2</Value>
+        <Weight>0.1</Weight>
+    </Ingredient>
+</AllIngredients>

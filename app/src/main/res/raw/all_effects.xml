@@ -1,0 +1,497 @@
+<AllEffects>
+    <Effect>
+        <Name>Cure Disease</Name>
+        <ID>0</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>5</BaseMag>
+        <BaseDur>0</BaseDur>
+        <Value>21</Value>
+    </Effect>
+    <Effect>
+        <Name>Damage Health</Name>
+        <ID>1</ID>
+        <Class>Destruction</Class>
+        <Beneficial>0</Beneficial>
+        <BaseMag>2</BaseMag>
+        <BaseDur>1</BaseDur>
+        <Value>3</Value>
+    </Effect>
+    <Effect>
+        <Name>Damage Magicka</Name>
+        <ID>2</ID>
+        <Class>Destruction</Class>
+        <Beneficial>0</Beneficial>
+        <BaseMag>3</BaseMag>
+        <BaseDur>0</BaseDur>
+        <Value>52</Value>
+    </Effect>
+    <Effect>
+        <Name>Damage Magicka Regen</Name>
+        <ID>3</ID>
+        <Class>Destruction</Class>
+        <Beneficial>0</Beneficial>
+        <BaseMag>100</BaseMag>
+        <BaseDur>30</BaseDur>
+        <Value>265</Value>
+    </Effect>
+    <Effect>
+        <Name>Damage Stamina</Name>
+        <ID>4</ID>
+        <Class>Destruction</Class>
+        <Beneficial>0</Beneficial>
+        <BaseMag>3</BaseMag>
+        <BaseDur>0</BaseDur>
+        <Value>43</Value>
+    </Effect>
+    <Effect>
+        <Name>Damage Stamina Regen</Name>
+        <ID>5</ID>
+        <Class>Destruction</Class>
+        <Beneficial>0</Beneficial>
+        <BaseMag>100</BaseMag>
+        <BaseDur>30</BaseDur>
+        <Value>159</Value>
+    </Effect>
+    <Effect>
+        <Name>Fear</Name>
+        <ID>6</ID>
+        <Class>Illusion</Class>
+        <Beneficial>0</Beneficial>
+        <BaseMag>6</BaseMag>
+        <BaseDur>30</BaseDur>
+        <Value>120</Value>
+    </Effect>
+    <Effect>
+        <Name>Fortify Alteration</Name>
+        <ID>7</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>4</BaseMag>
+        <BaseDur>60</BaseDur>
+        <Value>47</Value>
+    </Effect>
+    <Effect>
+        <Name>Fortify Barter</Name>
+        <ID>8</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>1</BaseMag>
+        <BaseDur>30</BaseDur>
+        <Value>48</Value>
+    </Effect>
+    <Effect>
+        <Name>Fortify Block</Name>
+        <ID>9</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>4</BaseMag>
+        <BaseDur>60</BaseDur>
+        <Value>118</Value>
+    </Effect>
+    <Effect>
+        <Name>Fortify Carry Weight</Name>
+        <ID>10</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>4</BaseMag>
+        <BaseDur>300</BaseDur>
+        <Value>208</Value>
+    </Effect>
+    <Effect>
+        <Name>Fortify Conjuration</Name>
+        <ID>11</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>5</BaseMag>
+        <BaseDur>60</BaseDur>
+        <Value>75</Value>
+    </Effect>
+    <Effect>
+        <Name>Fortify Destruction</Name>
+        <ID>12</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>5</BaseMag>
+        <BaseDur>60</BaseDur>
+        <Value>151</Value>
+    </Effect>
+    <Effect>
+        <Name>Fortify Enchanting</Name>
+        <ID>13</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>1</BaseMag>
+        <BaseDur>30</BaseDur>
+        <Value>14</Value>
+    </Effect>
+    <Effect>
+        <Name>Fortify Health</Name>
+        <ID>14</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>4</BaseMag>
+        <BaseDur>60</BaseDur>
+        <Value>82</Value>
+    </Effect>
+    <Effect>
+        <Name>Fortify Heavy Armor</Name>
+        <ID>15</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>2</BaseMag>
+        <BaseDur>60</BaseDur>
+        <Value>55</Value>
+    </Effect>
+    <Effect>
+        <Name>Fortify Illusion</Name>
+        <ID>16</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>4</BaseMag>
+        <BaseDur>60</BaseDur>
+        <Value>94</Value>
+    </Effect>
+    <Effect>
+        <Name>Fortify Light Armor</Name>
+        <ID>17</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>2</BaseMag>
+        <BaseDur>60</BaseDur>
+        <Value>55</Value>
+    </Effect>
+    <Effect>
+        <Name>Fortify Lockpicking</Name>
+        <ID>18</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>2</BaseMag>
+        <BaseDur>30</BaseDur>
+        <Value>25</Value>
+    </Effect>
+    <Effect>
+        <Name>Fortify Magicka</Name>
+        <ID>19</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>4</BaseMag>
+        <BaseDur>60</BaseDur>
+        <Value>71</Value>
+    </Effect>
+    <Effect>
+        <Name>Fortify Marksman</Name>
+        <ID>20</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>4</BaseMag>
+        <BaseDur>60</BaseDur>
+        <Value>118</Value>
+    </Effect>
+    <Effect>
+        <Name>Fortify One-Handed</Name>
+        <ID>21</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>4</BaseMag>
+        <BaseDur>60</BaseDur>
+        <Value>118</Value>
+    </Effect>
+    <Effect>
+        <Name>Fortify Pickpocket</Name>
+        <ID>22</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>4</BaseMag>
+        <BaseDur>60</BaseDur>
+        <Value>118</Value>
+    </Effect>
+    <Effect>
+        <Name>Fortify Restoration</Name>
+        <ID>23</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>4</BaseMag>
+        <BaseDur>60</BaseDur>
+        <Value>118</Value>
+    </Effect>
+    <Effect>
+        <Name>Fortify Smithing</Name>
+        <ID>24</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>4</BaseMag>
+        <BaseDur>30</BaseDur>
+        <Value>82</Value>
+    </Effect>
+    <Effect>
+        <Name>Fortify Stamina</Name>
+        <ID>25</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>4</BaseMag>
+        <BaseDur>60</BaseDur>
+        <Value>71</Value>
+    </Effect>
+    <Effect>
+        <Name>Fortify Sneak</Name>
+        <ID>26</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>4</BaseMag>
+        <BaseDur>60</BaseDur>
+        <Value>118</Value>
+    </Effect>
+    <Effect>
+        <Name>Fortify Two-Handed</Name>
+        <ID>27</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>4</BaseMag>
+        <BaseDur>60</BaseDur>
+        <Value>118</Value>
+    </Effect>
+    <Effect>
+        <Name>Frenzy</Name>
+        <ID>28</ID>
+        <Class>Illusion</Class>
+        <Beneficial>0</Beneficial>
+        <BaseMag>1</BaseMag>
+        <BaseDur>10</BaseDur>
+        <Value>107</Value>
+    </Effect>
+    <Effect>
+        <Name>Invisibility</Name>
+        <ID>29</ID>
+        <Class>Illusion</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>0</BaseMag>
+        <BaseDur>4</BaseDur>
+        <Value>261</Value>
+    </Effect>
+    <Effect>
+        <Name>Lingering Damage Health</Name>
+        <ID>30</ID>
+        <Class>Destruction</Class>
+        <Beneficial>0</Beneficial>
+        <BaseMag>1</BaseMag>
+        <BaseDur>10</BaseDur>
+        <Value>86</Value>
+    </Effect>
+    <Effect>
+        <Name>Lingering Damage Magicka</Name>
+        <ID>31</ID>
+        <Class>Destruction</Class>
+        <Beneficial>0</Beneficial>
+        <BaseMag>1</BaseMag>
+        <BaseDur>10</BaseDur>
+        <Value>71</Value>
+    </Effect>
+    <Effect>
+        <Name>Lingering Damage Stamina</Name>
+        <ID>32</ID>
+        <Class>Destruction</Class>
+        <Beneficial>0</Beneficial>
+        <BaseMag>1</BaseMag>
+        <BaseDur>10</BaseDur>
+        <Value>71</Value>
+    </Effect>
+    <Effect>
+        <Name>Paralysis</Name>
+        <ID>33</ID>>
+        <Class>Alteration</Class>
+        <Beneficial>0</Beneficial>
+        <BaseMag>0</BaseMag>
+        <BaseDur>1</BaseDur>
+        <Value>285</Value>
+    </Effect>
+    <Effect>
+        <Name>Ravage Health</Name>
+        <ID>34</ID>>
+        <Class>Destruction</Class>
+        <Beneficial>0</Beneficial>
+        <BaseMag>2</BaseMag>
+        <BaseDur>10</BaseDur>
+        <Value>6</Value>
+    </Effect>
+    <Effect>
+        <Name>Ravage Magicka</Name>
+        <ID>35</ID>>
+        <Class>Destruction</Class>
+        <Beneficial>0</Beneficial>
+        <BaseMag>2</BaseMag>
+        <BaseDur>10</BaseDur>
+        <Value>15</Value>
+    </Effect>
+    <Effect>
+        <Name>Ravage Stamina</Name>
+        <ID>36</ID>>
+        <Class>Destruction</Class>
+        <Beneficial>0</Beneficial>
+        <BaseMag>2</BaseMag>
+        <BaseDur>10</BaseDur>
+        <Value>24</Value>
+    </Effect>
+    <Effect>
+        <Name>Regenerate Health</Name>
+        <ID>37</ID>>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>5</BaseMag>
+        <BaseDur>300</BaseDur>
+        <Value>177</Value>
+    </Effect>
+    <Effect>
+        <Name>Regenerate Magicka</Name>
+        <ID>38</ID>>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>5</BaseMag>
+        <BaseDur>300</BaseDur>
+        <Value>177</Value>
+    </Effect>
+    <Effect>
+        <Name>Regenerate Stamina</Name>
+        <ID>39</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>5</BaseMag>
+        <BaseDur>300</BaseDur>
+        <Value>177</Value>
+    </Effect>
+    <Effect>
+        <Name>Resist Fire</Name>
+        <ID>40</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>3</BaseMag>
+        <BaseDur>60</BaseDur>
+        <Value>86</Value>
+    </Effect>
+    <Effect>
+        <Name>Resist Frost</Name>
+        <ID>41</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>3</BaseMag>
+        <BaseDur>60</BaseDur>
+        <Value>86</Value>
+    </Effect>
+    <Effect>
+        <Name>Resist Magic</Name>
+        <ID>42</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>1</BaseMag>
+        <BaseDur>60</BaseDur>
+        <Value>51</Value>
+    </Effect>
+    <Effect>
+        <Name>Resist Poison</Name>
+        <ID>43</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>4</BaseMag>
+        <BaseDur>60</BaseDur>
+        <Value>118</Value>
+    </Effect>
+    <Effect>
+        <Name>Resist Shock</Name>
+        <ID>44</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>3</BaseMag>
+        <BaseDur>60</BaseDur>
+        <Value>86</Value>
+    </Effect>
+    <Effect>
+        <Name>Restore Health</Name>
+        <ID>45</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>5</BaseMag>
+        <BaseDur>0</BaseDur>
+        <Value>21</Value>
+    </Effect>
+    <Effect>
+        <Name>Restore Magicka</Name>
+        <ID>46</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>5</BaseMag>
+        <BaseDur>0</BaseDur>
+        <Value>25</Value>
+    </Effect>
+    <Effect>
+        <Name>Restore Stamina</Name>
+        <ID>47</ID>
+        <Class>Restoration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>5</BaseMag>
+        <BaseDur>0</BaseDur>
+        <Value>25</Value>
+    </Effect>
+    <Effect>
+        <Name>Slow</Name>
+        <ID>48</ID>
+        <Class>Destruction</Class>
+        <Beneficial>0</Beneficial>
+        <BaseMag>50</BaseMag>
+        <BaseDur>30</BaseDur>
+        <Value>247</Value>
+    </Effect>
+    <Effect>
+        <Name>Waterbreathing</Name>
+        <ID>49</ID>
+        <Class>Alteration</Class>
+        <Beneficial>1</Beneficial>
+        <BaseMag>0</BaseMag>
+        <BaseDur>30</BaseDur>
+        <Value>100</Value>
+    </Effect>
+    <Effect>
+        <Name>Weakness to Fire</Name>
+        <ID>50</ID>
+        <Class>Destruction</Class>
+        <Beneficial>0</Beneficial>
+        <BaseMag>3</BaseMag>
+        <BaseDur>30</BaseDur>
+        <Value>48</Value>
+    </Effect>
+    <Effect>
+        <Name>Weakness to Frost</Name>
+        <ID>51</ID>
+        <Class>Destruction</Class>
+        <Beneficial>0</Beneficial>
+        <BaseMag>3</BaseMag>
+        <BaseDur>30</BaseDur>
+        <Value>40</Value>
+    </Effect>
+    <Effect>
+        <Name>Weakness to Magic</Name>
+        <ID>52</ID>
+        <Class>Destruction</Class>
+        <Beneficial>0</Beneficial>
+        <BaseMag>2</BaseMag>
+        <BaseDur>30</BaseDur>
+        <Value>51</Value>
+    </Effect>
+    <Effect>
+        <Name>Weakness to Poison</Name>
+        <ID>53</ID>
+        <Class>Destruction</Class>
+        <Beneficial>0</Beneficial>
+        <BaseMag>2</BaseMag>
+        <BaseDur>30</BaseDur>
+        <Value>51</Value>
+    </Effect>
+    <Effect>
+        <Name>Weakness to Shock</Name>
+        <ID>54</ID>
+        <Class>Destruction</Class>
+        <Beneficial>0</Beneficial>
+        <BaseMag>3</BaseMag>
+        <BaseDur>30</BaseDur>
+        <Value>51</Value>
+    </Effect>
+</AllEffects>
